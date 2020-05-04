@@ -1,6 +1,6 @@
 const path = require('path');
 const package = require('./package.json');
-const nodeExternals = require('webpack-node-externals');
+// const nodeExternals = require('webpack-node-externals');
 
 // import path from 'path';
 // import package from './package.json';
