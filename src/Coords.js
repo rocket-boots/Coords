@@ -183,4 +183,4 @@ class Coords {
 	}
 }
 
-export default XY;
+export default Coords;
