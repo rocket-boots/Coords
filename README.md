@@ -12,9 +12,10 @@
 
 ### Coords
 
-Instantiate a new coordinates object with x and y values: `new Coords(x, y)`.
+- Instantiate a new coordinates object with x and y values: `new Coords(x, y)`.
+- See all the methods in https://github.com/rocket-boots/Coords/blob/master/src/Coords.js
 
-Examples:
+#### Examples
 
 ```javascript
 	import Coords from 'Coords.js';
@@ -31,6 +32,7 @@ Examples:
 		.add({x: 99, y: 0}) // add another Coords-like object to this one
 		.multiply(2); // multiply all coordinates ... Final result: x = 200, y = 4
 ```
+
 
 
 ## Development
