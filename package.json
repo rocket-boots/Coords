@@ -1,6 +1,6 @@
 {
   "name": "rocket-boots-coords",
-  "version": "0.1.1",
+  "version": "0.5.1",
   "description": "Coordinates math",
   "type": "module",
   "main": "./index.cjs",
