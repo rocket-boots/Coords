@@ -1,6 +1,6 @@
 {
   "name": "rocket-boots-coords",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Coordinates math",
   "type": "module",
   "main": "./index.cjs",
@@ -30,7 +30,6 @@
   "homepage": "https://github.com/rocket-boots/Coords#readme",
   "devDependencies": {
     "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12",
-    "webpack-node-externals": "^1.7.2"
+    "webpack-cli": "^3.3.12"
   }
 }

@@ -189,6 +189,9 @@ class Coords {
 	getMultiply(m) {
 		return new Coords(this.x * m, this.y * m);
 	}
+	getDot({x, y}){
+		return ((this.x * x) + (this.y * y));
+	}
 	getUnitVector(coords = {}) {
 		const d = this.getAbsoluteDistance(coords);
 		if (d === 0) { return new Coords(0, 0); }
