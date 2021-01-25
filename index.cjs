@@ -92,6 +92,9 @@
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, "Coords", function() { return /* reexport */ src_Coords; });
+
 // CONCATENATED MODULE: ./src/Coords.js
 class Coords {
 	constructor(x = 0, y = 0) {
@@ -286,7 +289,7 @@ class Coords {
 // CONCATENATED MODULE: ./index.mjs
 
 
-/* harmony default export */ var index = __webpack_exports__["default"] = ({ Coords: src_Coords });
+
 
 
 /***/ })
