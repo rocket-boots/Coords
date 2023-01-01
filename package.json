@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/rocket-boots/Coords#readme",
   "devDependencies": {
-    "webpack": "^4.44.1",
+    "webpack": "^5.75.0",
     "webpack-cli": "^4.4.0"
   }
 }
